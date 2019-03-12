@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AirBnB"
+             x:Class="AirBnB.MainPage">
+
+    <StackLayout>
+        <SearchBar Placeholder="search . . " TextChanged="SearchBar_TextChanged"/>
+
+        <Button Text="Recent Searches" TextColor="Black" Clicked="RecentSearchButton_Clicked"></Button>
+        
+        <ListView x:Name="listView" IsPullToRefreshEnabled="True" Refreshing="ListView_Refreshing">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell x:Name="textCe" Text="{Binding Location}" Detail="{Binding Check}"/>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        
+    </StackLayout>
+
+</ContentPage>

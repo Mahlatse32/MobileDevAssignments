@@ -1,0 +1,16 @@
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\bin\Debug\netstandard2.0\AirBnB.deps.json
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\bin\Debug\netstandard2.0\AirBnB.dll
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\bin\Debug\netstandard2.0\AirBnB.pdb
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\AirBnB.csprojAssemblyReference.cache
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\AirBnB.csproj.CoreCompileInputs.cache
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\AirBnB.AssemblyInfoInputs.cache
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\AirBnB.AssemblyInfo.cs
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\AirBnB.csproj.CopyComplete
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\AirBnB.dll
+C:\Users\mahlatset\Desktop\MobileDevAssignments\AirBnB\AirBnB\AirBnB\obj\Debug\netstandard2.0\AirBnB.pdb
