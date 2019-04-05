@@ -1,0 +1,12 @@
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\bin\Debug\netstandard2.0\InstagramApp.deps.json
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\bin\Debug\netstandard2.0\InstagramApp.dll
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\bin\Debug\netstandard2.0\InstagramApp.pdb
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.csprojAssemblyReference.cache
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.csproj.CoreCompileInputs.cache
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.AssemblyInfoInputs.cache
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.AssemblyInfo.cs
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.dll
+C:\Users\mahlatset\Desktop\MobileDevAssignments\InstagramApp\InstagramApp\InstagramApp\obj\Debug\netstandard2.0\InstagramApp.pdb

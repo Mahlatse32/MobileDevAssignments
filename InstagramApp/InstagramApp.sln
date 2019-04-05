@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstagramApp.Android", "InstagramApp\InstagramApp.Android\InstagramApp.Android.csproj", "{8AFC42CE-C0E4-42BA-81FE-8B3B76CC8F2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstagramApp", "InstagramApp\InstagramApp\InstagramApp.csproj", "{A393E41E-229C-4844-A264-9CC88FBCA880}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AFC42CE-C0E4-42BA-81FE-8B3B76CC8F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AFC42CE-C0E4-42BA-81FE-8B3B76CC8F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AFC42CE-C0E4-42BA-81FE-8B3B76CC8F2E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8AFC42CE-C0E4-42BA-81FE-8B3B76CC8F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AFC42CE-C0E4-42BA-81FE-8B3B76CC8F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AFC42CE-C0E4-42BA-81FE-8B3B76CC8F2E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A393E41E-229C-4844-A264-9CC88FBCA880}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A393E41E-229C-4844-A264-9CC88FBCA880}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A393E41E-229C-4844-A264-9CC88FBCA880}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A393E41E-229C-4844-A264-9CC88FBCA880}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A393E41E-229C-4844-A264-9CC88FBCA880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A393E41E-229C-4844-A264-9CC88FBCA880}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8501DF5A-25BF-44A4-BA34-7D4C4441CFE3}
+	EndGlobalSection
+EndGlobal
